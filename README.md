@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com excel
-- 🌱 Estudando Python
+- 🔭 Aprendendo Python e SQL
 
 <div>
   <a href="https://github.com/CaJuBalbino">
